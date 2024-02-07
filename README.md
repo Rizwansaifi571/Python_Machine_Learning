@@ -1,4 +1,4 @@
-# 🚀 Welcome to Python Machine Learning Repository! 🚀
+# 🚀 Welcome to Python Machine Learning Repository! 
 
 🧠 Dive into the exciting world of machine learning with our Python Machine Learning repository! Whether you're a beginner looking to kickstart your journey or an experienced practitioner seeking to enhance your skills, this repository has something for everyone.
 
